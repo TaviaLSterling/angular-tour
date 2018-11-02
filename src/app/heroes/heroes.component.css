@@ -1,5 +1,5 @@
 .selected {
-    background-color: #CFD8DC !important;
+    background-color: rgb(241, 163, 241) !important;
     color: white;
   }
   .heroes {
@@ -23,8 +23,8 @@
     color: white;
   }
   .heroes li:hover {
-    color: #607D8B;
-    background-color: #DDD;
+    color: rgb(27, 102, 139);
+    background-color: rgb(166, 241, 151);
     left: .1em;
   }
   .heroes .text {
